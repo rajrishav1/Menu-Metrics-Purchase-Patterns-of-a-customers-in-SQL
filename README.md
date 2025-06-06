@@ -1,4 +1,4 @@
-🍽️ Restaurant Order Analysis with SQL.
+🍽️ Menu Metrics & Purchase Patterns of a customer with SQL.
 This project explores restaurant menu data and order transactions using SQL to derive actionable business insights.
 It focuses on understanding menu item performance, customer order behavior, and revenue generation patterns.
 
