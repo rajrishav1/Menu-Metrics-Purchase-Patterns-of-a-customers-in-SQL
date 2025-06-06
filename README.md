@@ -38,3 +38,7 @@ This SQL-based analysis provides a clear view of customer ordering behavior and 
 By identifying best-selling items, high-revenue orders, and category trends,
 the restaurant can make informed decisions on inventory planning, promotional strategies, and menu optimization. Overall,
 this project showcases how structured data and simple SQL queries can turn raw transactional data into meaningful business insights that drive growth and efficiency.
+
+### 📊 Business Overview Dashboard (SQL Analysis)
+![Dashboard Preview](Dashboard%20-%20Business%20Overview.jpg)
+
